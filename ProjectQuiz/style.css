@@ -1,0 +1,27 @@
+.logo {
+    justify-content: center;
+    text-align: center;
+    margin-top: 5%;
+    font-size: 100px;
+}
+
+.text {
+    justify-content: center;
+    text-align: center;
+    font-size: 20px;
+}
+
+.naam {
+    justify-content: center;
+    text-align: center;
+    margin-top: 5%;
+    font-size: 30px;
+
+}
+
+.gekozennaam {
+    justify-content: center;
+    text-align: center;
+    margin-top: 5%;
+    font-size: 25px;
+}
